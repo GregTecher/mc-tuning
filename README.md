@@ -1,4 +1,4 @@
-# Minecraft 优化扫盲
+# Minecraft 调优指南
 
 鉴于发现很多人对Modded Minecraft如何优化一无所知，用着比我好太多的显卡，FPS都不能保持60，吾甚为心痛，遂作此篇，造福mcer
 
